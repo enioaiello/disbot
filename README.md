@@ -1,41 +1,25 @@
-# {{PROJECT_NAME}}
+# Disbot
 
-{{One-line tagline describing the project}}
+A simple yet efficient Discord moderator bot.
 
 ## About
 
-{{Paragraph describing what the project does, why it exists, and who it's for.}}
+**Disbot** is a simple Discord bot that allows you to moderate your Discord server with ease. It includes **basic functions** like warn, mute, kick, ban commands and **security related command** to help protect your server.
 
 ## Features
 
-### {{Feature 1 Title}}
-{{Short paragraph describing the feature and its benefit.}}
+### Moderation
+Warn, mute, kick, ban… all with one bot.
 
-### {{Feature 2 Title}}
-{{Short paragraph describing the feature and its benefit.}}
-
-### {{Feature 3 Title}}
-{{Short paragraph describing the feature and its benefit.}}
+### Security
+Protect your server manually from eventuals attacks.
 
 ## Installation
 
-### Using a pre-built release
-1. Download the latest release from the [Releases](../../releases) page.
-2. {{Extraction / run instructions}}
-
 ### Building from source
 ```bash
-git clone https://github.com/enioaiello/{{REPO_NAME}}.git
-cd {{REPO_NAME}}
-{{build commands, e.g. make / npm install / cargo build --release}}
-```
-
-## Usage
-
-{{Basic usage example, commands, or code snippet}}
-
-```bash
-{{example command}}
+git clone https://github.com/enioaiello/disbot.git
+cd disbot
 ```
 
 ## Artificial Intelligence
