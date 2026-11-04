@@ -1,4 +1,4 @@
-# Contributing to {{PROJECT_NAME}}
+# Contributing to Disbot
 
 Thank you for considering contributing to this project! This document outlines the process for contributing and what to expect.
 
@@ -46,7 +46,7 @@ When filing an issue, please include:
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the same license as the project ({{LICENSE: MIT / GPL-3.0}}). See the [LICENSE](LICENSE) file for details.
+By contributing to this project, you agree that your contributions will be licensed under the same license as the project ([GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)). See the [LICENSE](LICENSE) file for details.
 
 ## Questions?
 
