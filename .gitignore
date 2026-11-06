@@ -1,22 +1,22 @@
-# Fichiers système d'exploitation
+# OS files
 .DS_Store
 Thumbs.db
 ehthumbs.db
 Icon?
 Desktop.ini
 
-# Fichiers d'IDEs
+# IDE files
 .vscode/
 .idea/
 *.sublime-workspace
 *.sublime-project
 
-# Fichiers Composer
+# Composer files
 vendor/
 composer.phar
 # composer.lock
 
-# Fichiers Node
+# Node files
 node_modules/
 dist/
 build/
@@ -24,7 +24,7 @@ public/build/
 .env.local
 .env.*.local
 
-# Fichiers Vide
+# Vite files
 .vite/
 *.log
 *.cache/
@@ -33,40 +33,40 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Fichiers tests unitaires
+# Unit test files
 /coverage/
 .phpunit.result.cache
 
-# Fichiers logs
+# Logs files
 *.log
 logs/
 *.pid
 *.seed
 
-# Fichiers d'environnement
+# Env files
 .env
 .env.*
 !.env.example
 
-# Fichiers temporaires
+# Temp files
 *.bak
 *.tmp
 *.swp
 *.swo
 
-# Autres fichiers
+# Other files
 *.orig
 *.lock-wscript
 .pnp.*
 .pnpm-debug.log
 
-# Fichiers Docker
+# Docker files
 docker-compose.override.yml
 .env.docker
 
-# Fichiers Laravel
+# Laravel files
 storage/
 bootstrap/cache/
 
-# Fichiers Symfony
+# Symfony files
 var/
