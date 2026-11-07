@@ -25,7 +25,7 @@ The user (with the appropriated rights) can use these commands:
 - Tempmute: mute an user for a fixed amount of time, always with a reason
 - Auto-moderator: block ads, block staff ping
 
-## Security
+### Security
 
 The user with an administrator permission can use these commands:
 - Lock a channel: the user can lock a specific channel
